@@ -33,7 +33,7 @@ Me interesa desarrollarme en **Business Intelligence, análisis comercial y cali
 
 ---
 
-### 2) Instacart — Hábitos de compra y reorden (Python)
+### 2) Instacart – Hábitos de compra (Python/EDA): [Ver reporte](projects/instacart/instacart_report.html)
 **Objetivo:** limpiar un dataset modificado de Instacart y analizar hábitos de compra (horarios, días, reorden y productos top).  
 **Qué hice:**
 - Realicé limpieza de datos: tipos, ausentes, duplicados y validación de rangos.
