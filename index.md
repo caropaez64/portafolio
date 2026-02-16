@@ -6,7 +6,7 @@ title: Portafolio | Leslie Carolina Páez Balderas
 # Leslie Carolina Páez Balderas  
 **Junior Data Analyst | SQL • Tableau • Python • Excel**  
 
-[LinkedIn][(PON_AQUI_TU_LINKEDIN)](https://www.linkedin.com/in/leslie-carolina-p%C3%A1ez-balderas/) · [Tableau Public](https://public.tableau.com/app/profile/leslie.p.ez/viz/EntregaFinalPez/Nubepalabras?publish=yes) · [Email](mailto:PON_AQUI_TU_CORREO)
+[LinkedIn](https://www.linkedin.com/in/leslie-carolina-p%C3%A1ez-balderas/) · [Tableau Public](https://public.tableau.com/app/profile/leslie.p.ez/viz/EntregaFinalPez/Nubepalabras?publish=yes) · [Email](mailto:leslie.pabal6@gmail.com)
 
 ---
 
@@ -76,6 +76,6 @@ Me interesa desarrollarme en **Business Intelligence, análisis comercial y cali
 
 ## Contacto
 📩 **Email:** leslie.pabal6@gmail.com 
-🔗 **LinkedIn:** https://www.linkedin.com/in/leslie-carolina-p%C3%A1ez-balderas/ 
+🔗 **LinkedIn:** https://www.linkedin.com/in/leslie-carolina-p%C3%A1ez-balderas/
 
 _Última actualización: Feb 2026_
