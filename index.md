@@ -29,7 +29,7 @@ Me interesa desarrollarme en **Business Intelligence, análisis comercial y cali
 - Apliqué **data storytelling** para destacar hallazgos de negocio.
 
 **Herramientas:** Tableau Public  
-**Ver dashboard:** https://public.tableau.com/app/profile/leslie.p.ez/viz/EntregaFinalPez/Nubepalabras?publish=yes
+**Ver dashboard:** https://public.tableau.com/app/profile/leslie.p.ez/viz/EntregaFinalPez/Nubepalabras
 
 ---
 
