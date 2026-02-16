@@ -6,7 +6,7 @@ title: Portafolio | Leslie Carolina Páez Balderas
 # Leslie Carolina Páez Balderas  
 **Junior Data Analyst | SQL • Tableau • Python • Excel**  
 
-[LinkedIn](https://www.linkedin.com/in/leslie-carolina-p%C3%A1ez-balderas/) · [Tableau Public](https://public.tableau.com/app/profile/leslie.p.ez/viz/EntregaFinalPez/Nubepalabras?publish=yes) · [Email](mailto:leslie.pabal6@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/leslie-carolina-p%C3%A1ez-balderas/) · [Tableau Public](https://public.tableau.com/app/profile/leslie.p.ez/vizzes) · [Email](mailto:leslie.pabal6@gmail.com)
 
 ---
 
@@ -22,33 +22,32 @@ Me interesa desarrollarme en **Business Intelligence, análisis comercial y cali
 
 ## Proyectos destacados
 
-### 1) Ventas globales (Tableau) — *En progreso*
+### 1) Ventas globales — Dashboard (Tableau)
 **Objetivo:** explorar ventas globales y comunicar insights con un dashboard interactivo.  
 **Qué hice:**
-- Diseñé visualizaciones y filtros para explorar tendencias por país/región/periodo/tipo de producto.
-- Apliqué principios de **data storytelling** para comunicar hallazgos de forma clara.
+- Diseñé visualizaciones, filtros y métricas para analizar tendencias por país/región/periodo/tipo de producto.
+- Apliqué **data storytelling** para destacar hallazgos de negocio.
 
 **Herramientas:** Tableau Public  
-**Link:** https://public.tableau.com/app/profile/leslie.p.ez/viz/EntregaFinalPez/Nubepalabras?publish=yes
+**Ver dashboard:** https://public.tableau.com/app/profile/leslie.p.ez/viz/EntregaFinalPez/Nubepalabras?publish=yes
 
 ---
 
-### 2) Instacart – Hábitos de compra (Python/EDA): [Ver reporte](projects/instacart/instacart_report.html)
-**Objetivo:** limpiar un dataset modificado de Instacart y analizar hábitos de compra (horarios, días, reorden y productos top).  
+### 2) Instacart — Hábitos de compra (Python / EDA)
+**Objetivo:** limpiar un dataset modificado y analizar hábitos de compra (horarios, días, reorden y productos top).  
 **Qué hice:**
-- Realicé limpieza de datos: tipos, ausentes, duplicados y validación de rangos.
-- Hice EDA con visualizaciones para responder preguntas de negocio sobre comportamiento de compra y reorden.
+- Limpieza: tipos, ausentes, duplicados y validación de rangos.
+- EDA + visualizaciones para responder preguntas de negocio sobre comportamiento y reorden.
 
-**Herramientas:** Python (Pandas, Matplotlib), Jupyter Notebook  
+**Herramientas:** Python (Pandas, Matplotlib), Jupyter  
 **Hallazgos clave:**
-- Mayor actividad de compras entre **9:00 y 17:00** (pico a las **10:00**).
-- Días con más compras: **domingo y lunes**; menor actividad: **jueves**.
-- Producto #1 por volumen: **“banana” (66,050 compras)**.
+- Mayor actividad entre **9:00–17:00** (pico **10:00**).
+- Más compras: **domingo y lunes**; menos: **jueves**.
+- Producto #1: **banana** (**66,050** compras).
 
-**Notebook:** 
-- [Instacart – Hábitos de compra (Reporte HTML)](projects/instacart/instacart_report.html)
-- [Instacart – Notebook (Jupyter)](projects/instacart/instacart_public.ipynb)
-
+**Entregables:**
+- ✅ [Reporte HTML](projects/instacart/instacart_report.html)  
+- ✅ [Notebook (Jupyter)](projects/instacart/instacart_public.ipynb)
 
 ---
 
@@ -58,27 +57,29 @@ Me interesa desarrollarme en **Business Intelligence, análisis comercial y cali
 - Limpieza/estandarización y análisis por región (plataformas, géneros y rating ESRB).
 - Pruebas de hipótesis sobre calificaciones de usuarios por plataforma y género.
 
-**Herramientas:** Python (Pandas, Matplotlib), estadística (pruebas de hipótesis), Jupyter Notebook  
+**Herramientas:** Python (Pandas, Matplotlib), estadística (pruebas de hipótesis), Jupyter  
 **Hallazgos clave:**
 - **Norteamérica:** X360 + Action + Rating **E**  
 - **Europa:** PS3 + Action + Rating **E**  
 - **Japón:** DS + Role-playing + Rating **E**
-- Evidencia de diferencia en calificaciones promedio **Xbox One vs PC**; sin evidencia suficiente para diferencia **Action vs Sports**.
+- Diferencia en calificaciones promedio **Xbox One vs PC**; sin evidencia suficiente para diferencia **Action vs Sports**.
 
-**Notebook:** (PON_AQUI_LINK_AL_IPYNB_EN_GITHUB)
+**Entregables:**
+- ✅ [Reporte HTML](projects/tienda_ice/tienda_ice_report.html)  
+- ✅ [Notebook (Jupyter)](projects/tienda_ice/tienda_ice_public.ipynb)
 
 ---
 
 ## Habilidades
-- **SQL:** consultas, joins, agregaciones
-- **Tableau:** dashboards interactivos, filtros, storytelling
-- **Python:** limpieza de datos, EDA, visualización (Pandas, Numpy, Stats, Matplotlib)
-- **Excel:** tablas dinámicas, limpieza/validación, dashboards
+- **SQL:** joins, agregaciones, filtros, análisis exploratorio
+- **Tableau:** dashboards, filtros, data storytelling
+- **Python:** limpieza, EDA, visualización (Pandas, NumPy, Matplotlib)
+- **Excel:** tablas dinámicas, validación/limpieza, dashboards
 
 ---
 
 ## Contacto
-📩 **Email:** leslie.pabal6@gmail.com 
+📩 **Email:** leslie.pabal6@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/leslie-carolina-p%C3%A1ez-balderas/
 
 _Última actualización: Feb 2026_
