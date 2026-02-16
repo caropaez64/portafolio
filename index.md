@@ -45,7 +45,10 @@ Me interesa desarrollarme en **Business Intelligence, análisis comercial y cali
 - Días con más compras: **domingo y lunes**; menor actividad: **jueves**.
 - Producto #1 por volumen: **“banana” (66,050 compras)**.
 
-**Notebook:** (PON_AQUI_LINK_AL_IPYNB_EN_GITHUB)
+**Notebook:** 
+- [Instacart – Hábitos de compra (Reporte HTML)](projects/instacart/instacart_report.html)
+- [Instacart – Notebook (Jupyter)](projects/instacart/instacart_public.ipynb)
+
 
 ---
 
