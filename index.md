@@ -6,7 +6,7 @@ title: Portafolio | Leslie Carolina Páez Balderas
 # Leslie Carolina Páez Balderas  
 **Junior Data Analyst | SQL • Tableau • Python • Excel**  
 
-[LinkedIn](PON_AQUI_TU_LINKEDIN) · [Tableau Public](https://public.tableau.com/app/profile/leslie.p.ez/viz/EntregaFinalPez/Nubepalabras?publish=yes) · [Email](mailto:PON_AQUI_TU_CORREO)
+[LinkedIn][(PON_AQUI_TU_LINKEDIN)](https://www.linkedin.com/in/leslie-carolina-p%C3%A1ez-balderas/) · [Tableau Public](https://public.tableau.com/app/profile/leslie.p.ez/viz/EntregaFinalPez/Nubepalabras?publish=yes) · [Email](mailto:PON_AQUI_TU_CORREO)
 
 ---
 
@@ -15,7 +15,7 @@ En la licenciatura aprendí que toda obra literaria tiene una estructura; en el 
 
 Soy **Data Analyst Junior en transición hacia el análisis de datos**, proceso que comenzó durante mi **Maestría en Administración**, donde identifiqué el valor del análisis de información en la toma de decisiones empresariales. Trabajo con **SQL, Tableau, Python y Excel** para limpiar datos, analizar desempeño y comunicar insights con dashboards claros y visualmente atractivos.
 
-Me interesa desarrollarme en **Business Intelligence, análisis comercial y calidad de datos** dentro de corporativos grandes y multinacionales (incluyendo фарma).  
+Me interesa desarrollarme en **Business Intelligence, análisis comercial y calidad de datos** dentro de corporativos grandes y multinacionales (incluyendo farmaceúticas).  
 📩 Estoy abierta a oportunidades, conectar y aprender cosas nuevas.
 
 ---
@@ -25,7 +25,7 @@ Me interesa desarrollarme en **Business Intelligence, análisis comercial y cali
 ### 1) Ventas globales (Tableau) — *En progreso*
 **Objetivo:** explorar ventas globales y comunicar insights con un dashboard interactivo.  
 **Qué hice:**
-- Diseñé visualizaciones y filtros para explorar tendencias por país/región/periodo.
+- Diseñé visualizaciones y filtros para explorar tendencias por país/región/periodo/tipo de producto.
 - Apliqué principios de **data storytelling** para comunicar hallazgos de forma clara.
 
 **Herramientas:** Tableau Public  
@@ -49,7 +49,7 @@ Me interesa desarrollarme en **Business Intelligence, análisis comercial y cali
 
 ---
 
-### 3) Tienda Ice (Videojuegos) — Perfil de usuario por región + hipótesis
+### 3) Tienda Ice (Videojuegos) — Perfil de usuario por región + pruebas de hipótesis
 **Objetivo:** construir un perfil de usuario por región y validar hipótesis para apoyar decisiones de marketing/contenido.  
 **Qué hice:**
 - Limpieza/estandarización y análisis por región (plataformas, géneros y rating ESRB).
@@ -69,13 +69,13 @@ Me interesa desarrollarme en **Business Intelligence, análisis comercial y cali
 ## Habilidades
 - **SQL:** consultas, joins, agregaciones
 - **Tableau:** dashboards interactivos, filtros, storytelling
-- **Python:** limpieza de datos, EDA, visualización (Pandas, Matplotlib)
+- **Python:** limpieza de datos, EDA, visualización (Pandas, Numpy, Stats, Matplotlib)
 - **Excel:** tablas dinámicas, limpieza/validación, dashboards
 
 ---
 
 ## Contacto
-📩 **Email:** PON_AQUI_TU_CORREO  
-🔗 **LinkedIn:** PON_AQUI_TU_LINKEDIN  
+📩 **Email:** leslie.pabal6@gmail.com 
+🔗 **LinkedIn:** https://www.linkedin.com/in/leslie-carolina-p%C3%A1ez-balderas/ 
 
 _Última actualización: Feb 2026_
