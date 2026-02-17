@@ -33,13 +33,19 @@ Me interesa desarrollarme en **Business Intelligence, análisis comercial y cali
 
 ---
 
-### 2) Instacart — Hábitos de compra (Python / EDA)
+### 2) Instacart — Habitos de compra (Python / EDA)
 **Objetivo:** limpiar un dataset modificado y analizar hábitos de compra (horarios, días, reorden y productos top).  
 **Qué hice:**
 - Limpieza: tipos, ausentes, duplicados y validación de rangos.
 - EDA + visualizaciones para responder preguntas de negocio sobre comportamiento y reorden.
 
 **Herramientas:** Python (Pandas, Matplotlib), Jupyter  
+
+**Visualizaciones:**
+![Pedidos por hora: Miércoles vs Sábado](assets/instacart_pedidos_hora_miercoles_vs_sabado.png)
+
+![Top 10 primer artículo agregado al carrito](assets/instacart_top10_primer_item.png)
+
 **Hallazgos clave:**
 - Mayor actividad entre **9:00–17:00** (pico **10:00**).
 - Más compras: **domingo y lunes**; menos: **jueves**.
@@ -51,13 +57,19 @@ Me interesa desarrollarme en **Business Intelligence, análisis comercial y cali
 
 ---
 
-### 3) Tienda Ice (Videojuegos) — Perfil de usuario por región + pruebas de hipótesis
+### 3) Tienda Ice (Videojuegos) — Perfil de usuario por region + pruebas de hipotesis
 **Objetivo:** construir un perfil de usuario por región y validar hipótesis para apoyar decisiones de marketing/contenido.  
 **Qué hice:**
 - Limpieza/estandarización y análisis por región (plataformas, géneros y rating ESRB).
 - Pruebas de hipótesis sobre calificaciones de usuarios por plataforma y género.
 
 **Herramientas:** Python (Pandas, Matplotlib), estadística (pruebas de hipótesis), Jupyter  
+
+**Visualizaciones:**
+![Comparación de género por región](assets/tienda_ice_comparacion_genero_vs_region.png)
+
+![Ventas por plataforma](assets/tienda_ice_ventas_vs_plataforma.png)
+
 **Hallazgos clave:**
 - **Norteamérica:** X360 + Action + Rating **E**  
 - **Europa:** PS3 + Action + Rating **E**  
@@ -67,6 +79,7 @@ Me interesa desarrollarme en **Business Intelligence, análisis comercial y cali
 **Entregables:**
 - ✅ [Reporte HTML](projects/tienda_ice/tienda_ice_report.html)  
 - ✅ [Notebook (Jupyter)](projects/tienda_ice/tienda_ice_public.ipynb)
+
 
 ---
 
