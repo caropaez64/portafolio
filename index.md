@@ -28,13 +28,24 @@ Me interesa desarrollarme en **Business Intelligence, análisis comercial y cali
 
 ---
 
+## Habilidades técnicas
+- **SQL:** joins, agregaciones, filtros, análisis exploratorio
+- **Tableau:** dashboards, filtros, data storytelling
+- **Python:** limpieza, EDA, visualización (Pandas, NumPy, Matplotlib)
+- **Excel:** tablas dinámicas, validación/limpieza, dashboards
+
+## Habilidades blandas
+Análisis de datos | Manipulación de datos | Resolución de problemas | Comunicación efectiva | Trabajo en equipo | Orientación a resultados | Organización | Proactividad | Atención al detalle 
+
+---
+
 ## Proyectos destacados
 
 ### 1) Ventas globales — Dashboard (Tableau)
 **Objetivo:** explorar ventas globales y comunicar insights con un dashboard interactivo.  
 **Qué hice:**
 - Diseñé visualizaciones, filtros y métricas para analizar tendencias por país/región/periodo/tipo de producto.
-- Apliqué **data storytelling** para destacar hallazgos de negocio.
+- Apliqué data storytelling para destacar hallazgos de negocio.
 
 **Herramientas:** Tableau Public  
 **Ver dashboard:** https://public.tableau.com/app/profile/leslie.p.ez/viz/EntregaFinalPez/Nubepalabras
@@ -50,8 +61,12 @@ Me interesa desarrollarme en **Business Intelligence, análisis comercial y cali
 **Herramientas:** Python (Pandas, Matplotlib), Jupyter  
 
 **Visualizaciones:**
+1. **Número de pedidos por hora en los días Miércoles y Sábado:**
+   El comportamiento horario muestra que los pedidos se concentran desde la mañana hacia la tarde, con una actividad fuerte en horas pico de media mañana/mediodía. El sábado tiende a concentrar mayor intensidad en los picos (posible compra más planificada o mayor disponibilidad de tiempo), mientras que el miércoles luce más estable. Esto sugiere ventanas claras para activaciones comerciales: promociones, notificaciones o campañas de conversión pueden rendir mejor en la franja de mañana a tarde, especialmente durante fin de semana.
 ![Pedidos por hora: Miércoles vs Sábado](/portafolio/assets/instacart_pedidos_hora_miercoles_vs_sabado.png)
 
+2. **Top 10 primero artículos agregados al carrito:**
+   El top de “primer artículo agregado al carrito” está dominado por productos básicos y recurrentes (como banana), lo que sugiere que muchos usuarios inician sus compras con artículos “ancla” antes de completar el resto del carrito. Este patrón es valioso para optimizar la experiencia y aumentar conversión: esos productos pueden usarse como punto de entrada para recomendaciones personalizadas, bundles y estrategias de “comprar de nuevo” desde el primer paso del proceso de compra.
 ![Top 10 primer artículo agregado al carrito](/portafolio/assets/instacart_top10_primer_item.png)
 
 **Hallazgos clave:**
@@ -74,8 +89,12 @@ Me interesa desarrollarme en **Business Intelligence, análisis comercial y cali
 **Herramientas:** Python (Pandas, Matplotlib), estadística (pruebas de hipótesis), Jupyter  
 
 **Visualizaciones:**
+1. **Ventas por plataforma:**
+   Las ventas se encuentran altamente concentradas en pocas plataformas, mientras que el resto forma una “cola larga” con participación menor. Esto indica que gran parte del desempeño depende de un grupo reducido de consolas/plataformas principales, lo cual ayuda a definir prioridades: enfocar lanzamientos, presupuesto o inventario en las plataformas top para maximizar impacto, y dejar el resto para tácticas más específicas o de nicho.
 ![Ventas por plataforma](/portafolio/assets/tienda_ice_ventas_vs_plataforma.png)
 
+2. **Comparación de género por región:**
+   Se observa que Action domina claramente en Norteamérica y Europa, lo que lo convierte en el género más “seguro” para alcance y ventas en esos mercados. En Japón destaca con más fuerza Role-playing, reforzando la idea de que el mix de géneros debe adaptarse por región. Este contraste es útil para orientar campañas: priorizar títulos de acción en NA/EU y fortalecer RPG en JP con mensajes y selección de juegos alineados a la preferencia local.
 ![Comparación de género por región](/portafolio/assets/tienda_ice_comparacion_genero_vs_region.png)
 
 **Hallazgos clave:**
@@ -87,15 +106,6 @@ Me interesa desarrollarme en **Business Intelligence, análisis comercial y cali
 **Entregables:**
 - ✅ [Reporte HTML](projects/tienda_ice/tienda_ice_report.html)  
 - ✅ [Notebook (Jupyter)](projects/tienda_ice/tienda_ice_public.ipynb)
-
-
----
-
-## Habilidades
-- **SQL:** joins, agregaciones, filtros, análisis exploratorio
-- **Tableau:** dashboards, filtros, data storytelling
-- **Python:** limpieza, EDA, visualización (Pandas, NumPy, Matplotlib)
-- **Excel:** tablas dinámicas, validación/limpieza, dashboards
 
 ---
 
