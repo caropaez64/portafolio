@@ -6,6 +6,12 @@ title: Portafolio | Leslie Carolina Páez Balderas
 # Leslie Carolina Páez Balderas  
 **Junior Data Analyst | SQL • Tableau • Python • Excel**  
 
+<img 
+  src="{{ site.baseurl }}/portafolio/assets/foto_perfil.png" 
+  alt="Foto de perfil - Leslie Carolina Páez Balderas" 
+  style="width:160px; height:160px; object-fit:cover; border-radius:50%; display:block; margin: 18px auto;"
+/>
+
 [LinkedIn](https://www.linkedin.com/in/leslie-carolina-p%C3%A1ez-balderas/) · [Tableau Public](https://public.tableau.com/app/profile/leslie.p.ez/vizzes) · [Email](mailto:leslie.pabal6@gmail.com)
 
 ---
