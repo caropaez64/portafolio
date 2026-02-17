@@ -52,35 +52,7 @@ Análisis de datos | Manipulación de datos | Resolución de problemas | Comunic
 
 ---
 
-### 2) Instacart — Habitos de compra (Python / EDA)
-**Objetivo:** limpiar un dataset modificado y analizar hábitos de compra (horarios, días, reorden y productos top).  
-**Qué hice:**
-- Limpieza: tipos, ausentes, duplicados y validación de rangos.
-- EDA + visualizaciones para responder preguntas de negocio sobre comportamiento y reorden.
-
-**Herramientas:** Python (Pandas, Matplotlib), Jupyter  
-
-**Visualizaciones:**
-1. **Número de pedidos por hora en los días Miércoles y Sábado:**
-   El comportamiento horario muestra que los pedidos se concentran desde la mañana hacia la tarde, con una actividad fuerte en horas pico de media mañana/mediodía. El sábado tiende a concentrar mayor intensidad en los picos (posible compra más planificada o mayor disponibilidad de tiempo), mientras que el miércoles luce más estable. Esto sugiere ventanas claras para activaciones comerciales: promociones, notificaciones o campañas de conversión pueden rendir mejor en la franja de mañana a tarde, especialmente durante fin de semana.
-![Pedidos por hora: Miércoles vs Sábado](/portafolio/assets/instacart_pedidos_hora_miercoles_vs_sabado.png)
-
-2. **Top 10 primero artículos agregados al carrito:**
-   El top de “primer artículo agregado al carrito” está dominado por productos básicos y recurrentes (como banana), lo que sugiere que muchos usuarios inician sus compras con artículos “ancla” antes de completar el resto del carrito. Este patrón es valioso para optimizar la experiencia y aumentar conversión: esos productos pueden usarse como punto de entrada para recomendaciones personalizadas, bundles y estrategias de “comprar de nuevo” desde el primer paso del proceso de compra.
-![Top 10 primer artículo agregado al carrito](/portafolio/assets/instacart_top10_primer_item.png)
-
-**Hallazgos clave:**
-- Mayor actividad entre **9:00–17:00** (pico **10:00**).
-- Más compras: **domingo y lunes**; menos: **jueves**.
-- Producto #1: **banana** (**66,050** compras).
-
-**Entregables:**
-- ✅ [Reporte HTML](projects/instacart/instacart_report.html)  
-- ✅ [Notebook (Jupyter)](projects/instacart/instacart_public.ipynb)
-
----
-
-### 3) Tienda Ice (Videojuegos) — Perfil de usuario por region + pruebas de hipotesis
+### 2) Tienda Ice (Videojuegos) — Perfil de usuario por región + pruebas de hipótesis
 **Objetivo:** construir un perfil de usuario por región y validar hipótesis para apoyar decisiones de marketing/contenido.  
 **Qué hice:**
 - Limpieza/estandarización y análisis por región (plataformas, géneros y rating ESRB).
@@ -106,6 +78,34 @@ Análisis de datos | Manipulación de datos | Resolución de problemas | Comunic
 **Entregables:**
 - ✅ [Reporte HTML](projects/tienda_ice/tienda_ice_report.html)  
 - ✅ [Notebook (Jupyter)](projects/tienda_ice/tienda_ice_public.ipynb)
+
+---
+
+### 3) Instacart — Hábitos de compra (Python / EDA)
+**Objetivo:** limpiar un dataset modificado y analizar hábitos de compra (horarios, días, reorden y productos top).  
+**Qué hice:**
+- Limpieza: tipos, ausentes, duplicados y validación de rangos.
+- EDA + visualizaciones para responder preguntas de negocio sobre comportamiento y reorden.
+
+**Herramientas:** Python (Pandas, Matplotlib), Jupyter  
+
+**Visualizaciones:**
+1. **Número de pedidos por hora en los días Miércoles y Sábado:**
+   El comportamiento horario muestra que los pedidos se concentran desde la mañana hacia la tarde, con una actividad fuerte en horas pico de media mañana/mediodía. El sábado tiende a concentrar mayor intensidad en los picos (posible compra más planificada o mayor disponibilidad de tiempo), mientras que el miércoles luce más estable. Esto sugiere ventanas claras para activaciones comerciales: promociones, notificaciones o campañas de conversión pueden rendir mejor en la franja de mañana a tarde, especialmente durante fin de semana.
+![Pedidos por hora: Miércoles vs Sábado](/portafolio/assets/instacart_pedidos_hora_miercoles_vs_sabado.png)
+
+2. **Top 10 primero artículos agregados al carrito:**
+   El top de “primer artículo agregado al carrito” está dominado por productos básicos y recurrentes (como banana), lo que sugiere que muchos usuarios inician sus compras con artículos “ancla” antes de completar el resto del carrito. Este patrón es valioso para optimizar la experiencia y aumentar conversión: esos productos pueden usarse como punto de entrada para recomendaciones personalizadas, bundles y estrategias de “comprar de nuevo” desde el primer paso del proceso de compra.
+![Top 10 primer artículo agregado al carrito](/portafolio/assets/instacart_top10_primer_item.png)
+
+**Hallazgos clave:**
+- Mayor actividad entre **9:00–17:00** (pico **10:00**).
+- Más compras: **domingo y lunes**; menos: **jueves**.
+- Producto #1: **banana** (**66,050** compras).
+
+**Entregables:**
+- ✅ [Reporte HTML](projects/instacart/instacart_report.html)  
+- ✅ [Notebook (Jupyter)](projects/instacart/instacart_public.ipynb)
 
 ---
 
