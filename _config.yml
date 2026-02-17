@@ -1,2 +1,6 @@
 title: Portafolio | Leslie Carolina Páez Balderas
-theme: jekyll-theme-cayman
+description: Junior Data Analyst | SQL • Tableau • Python • Excel
+remote_theme: orderedlist/minimal
+plugins:
+  - jekyll-remote-theme
+  
