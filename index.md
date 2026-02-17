@@ -3,34 +3,34 @@ layout: default
 title: Portafolio | Leslie Carolina Páez Balderas
 ---
 
-# Leslie Carolina Páez Balderas  
-**Junior Data Analyst | SQL • Tableau • Python • Excel**  
+# Leslie Carolina Páez Balderas
 
-<div style="text-align:center; margin: 18px 0 10px 0;">
-  <img 
-    src="/portafolio/assets/foto_perfil.png" 
-    alt="Foto de perfil - Leslie Carolina Páez Balderas"
-    style="width:160px; height:160px; object-fit:cover; border-radius:50%; border: 3px solid rgba(0,0,0,0.08);"
-  />
-</div>
+**Junior Data Analyst | SQL • Tableau • Python • Excel**
 
-[LinkedIn](https://www.linkedin.com/in/leslie-carolina-p%C3%A1ez-balderas/) · [Tableau Public](https://public.tableau.com/app/profile/leslie.p.ez/vizzes) · [Email](mailto:leslie.pabal6@gmail.com)
+<img src="assets/foto_perfil.png" alt="Foto de perfil - Leslie Carolina Páez Balderas" width="160" style="border-radius:50%; object-fit:cover;">
+
+[LinkedIn](https://www.linkedin.com/in/leslie-carolina-p%C3%A1ez-balderas/) ·
+[Tableau Public](https://public.tableau.com/app/profile/leslie.p.ez/vizzes) ·
+[Email](mailto:leslie.pabal6@gmail.com) ·
+[GitHub](https://github.com/caropaez64)
 
 ---
 
 ## Sobre mí
+
 En la licenciatura aprendí que toda obra literaria tiene una estructura; en el análisis de datos descubrí que esa estructura también revela patrones y decisiones estratégicas.
 
 Soy **Data Analyst Junior en transición hacia el análisis de datos**, proceso que comenzó durante mi **Maestría en Administración**, donde identifiqué el valor del análisis de información en la toma de decisiones empresariales. Trabajo con **SQL, Tableau, Python y Excel** para limpiar datos, analizar desempeño y comunicar insights con dashboards claros y visualmente atractivos.
 
-Me interesa desarrollarme en **Business Intelligence, análisis comercial y calidad de datos** dentro de corporativos grandes y multinacionales (incluyendo farmaceúticas).  
+Me interesa desarrollarme en **Business Intelligence, análisis comercial y calidad de datos** dentro de corporativos grandes y multinacionales (incluyendo farmacéuticas).  
 📩 Estoy abierta a oportunidades, conectar y aprender cosas nuevas.
 
 ---
 
-## Proyectos destacados
+## Proyectos seleccionados
 
 ### 1) Ventas globales — Dashboard (Tableau)
+
 **Objetivo:** explorar ventas globales y comunicar insights con un dashboard interactivo.  
 **Qué hice:**
 - Diseñé visualizaciones, filtros y métricas para analizar tendencias por país/región/periodo/tipo de producto.
@@ -41,7 +41,8 @@ Me interesa desarrollarme en **Business Intelligence, análisis comercial y cali
 
 ---
 
-### 2) Instacart — Habitos de compra (Python / EDA)
+### 2) Instacart — Hábitos de compra (Python / EDA)
+
 **Objetivo:** limpiar un dataset modificado y analizar hábitos de compra (horarios, días, reorden y productos top).  
 **Qué hice:**
 - Limpieza: tipos, ausentes, duplicados y validación de rangos.
@@ -50,9 +51,10 @@ Me interesa desarrollarme en **Business Intelligence, análisis comercial y cali
 **Herramientas:** Python (Pandas, Matplotlib), Jupyter  
 
 **Visualizaciones:**
-![Pedidos por hora: Miércoles vs Sábado](/portafolio/assets/instacart_pedidos_hora_miercoles_vs_sabado.png)
 
-![Top 10 primer artículo agregado al carrito](/portafolio/assets/instacart_top10_primer_item.png)
+![Pedidos por hora: Miércoles vs Sábado](assets/instacart_pedidos_hora_miercoles_vs_sabado.png)
+
+![Top 10 primer artículo agregado al carrito](assets/instacart_top10_primer_item.png)
 
 **Hallazgos clave:**
 - Mayor actividad entre **9:00–17:00** (pico **10:00**).
@@ -65,7 +67,8 @@ Me interesa desarrollarme en **Business Intelligence, análisis comercial y cali
 
 ---
 
-### 3) Tienda Ice (Videojuegos) — Perfil de usuario por region + pruebas de hipotesis
+### 3) Tienda Ice (Videojuegos) — Perfil de usuario por región + pruebas de hipótesis
+
 **Objetivo:** construir un perfil de usuario por región y validar hipótesis para apoyar decisiones de marketing/contenido.  
 **Qué hice:**
 - Limpieza/estandarización y análisis por región (plataformas, géneros y rating ESRB).
@@ -74,9 +77,10 @@ Me interesa desarrollarme en **Business Intelligence, análisis comercial y cali
 **Herramientas:** Python (Pandas, Matplotlib), estadística (pruebas de hipótesis), Jupyter  
 
 **Visualizaciones:**
-![Ventas por plataforma](/portafolio/assets/tienda_ice_ventas_vs_plataforma.png)
 
-![Comparación de género por región](/portafolio/assets/tienda_ice_comparacion_genero_vs_region.png)
+![Ventas por plataforma](assets/tienda_ice_ventas_vs_plataforma.png)
+
+![Comparación de género por región](assets/tienda_ice_comparacion_genero_vs_region.png)
 
 **Hallazgos clave:**
 - **Norteamérica:** X360 + Action + Rating **E**  
@@ -88,19 +92,20 @@ Me interesa desarrollarme en **Business Intelligence, análisis comercial y cali
 - ✅ [Reporte HTML](projects/tienda_ice/tienda_ice_report.html)  
 - ✅ [Notebook (Jupyter)](projects/tienda_ice/tienda_ice_public.ipynb)
 
-
 ---
 
 ## Habilidades
-- **SQL:** joins, agregaciones, filtros, análisis exploratorio
-- **Tableau:** dashboards, filtros, data storytelling
-- **Python:** limpieza, EDA, visualización (Pandas, NumPy, Matplotlib)
-- **Excel:** tablas dinámicas, validación/limpieza, dashboards
+
+- **SQL:** joins, agregaciones, filtros, análisis exploratorio  
+- **Tableau:** dashboards, filtros, data storytelling  
+- **Python:** limpieza, EDA, visualización (Pandas, NumPy, Matplotlib)  
+- **Excel:** tablas dinámicas, validación/limpieza, dashboards  
 
 ---
 
 ## Contacto
-📩 **Email:** leslie.pabal6@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/leslie-carolina-p%C3%A1ez-balderas/
+
+📩 **Email:** [leslie.pabal6@gmail.com](mailto:leslie.pabal6@gmail.com)  
+🔗 **LinkedIn:** https://www.linkedin.com/in/leslie-carolina-p%C3%A1ez-balderas/  
 
 _Última actualización: Feb 2026_
