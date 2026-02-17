@@ -42,9 +42,9 @@ Me interesa desarrollarme en **Business Intelligence, análisis comercial y cali
 **Herramientas:** Python (Pandas, Matplotlib), Jupyter  
 
 **Visualizaciones:**
-![Pedidos por hora: Miércoles vs Sábado](assets/instacart_pedidos_hora_miercoles_vs_sabado.png)
+![Pedidos por hora: Miércoles vs Sábado](/portafolio/assets/instacart_pedidos_hora_miercoles_vs_sabado.png)
 
-![Top 10 primer artículo agregado al carrito](assets/instacart_top10_primer_item.png)
+![Top 10 primer artículo agregado al carrito](/portafolio/assets/instacart_top10_primer_item.png)
 
 **Hallazgos clave:**
 - Mayor actividad entre **9:00–17:00** (pico **10:00**).
@@ -66,9 +66,9 @@ Me interesa desarrollarme en **Business Intelligence, análisis comercial y cali
 **Herramientas:** Python (Pandas, Matplotlib), estadística (pruebas de hipótesis), Jupyter  
 
 **Visualizaciones:**
-![Comparación de género por región](assets/tienda_ice_comparacion_genero_vs_region.png)
+![Comparación de género por región](/portafolio/assets/tienda_ice_comparacion_genero_vs_region.png)
 
-![Ventas por plataforma](assets/tienda_ice_ventas_vs_plataforma.png)
+![Ventas por plataforma](/portafolio/assets/tienda_ice_ventas_vs_plataforma.png)
 
 **Hallazgos clave:**
 - **Norteamérica:** X360 + Action + Rating **E**  
