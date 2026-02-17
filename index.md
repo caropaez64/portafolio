@@ -48,7 +48,7 @@ Análisis de datos | Manipulación de datos | Resolución de problemas | Comunic
 - Apliqué data storytelling para destacar hallazgos de negocio.
 
 **Herramientas:** Tableau Public  
-**Ver dashboard:** https://public.tableau.com/app/profile/leslie.p.ez/viz/EntregaFinalPez/Nubepalabras
+**Ver dashboard:** [Tableau Public – Ventas globales](https://public.tableau.com/app/profile/leslie.p.ez/viz/EntregaFinalPez/Nubepalabras)
 
 ---
 
