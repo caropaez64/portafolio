@@ -14,7 +14,7 @@ title: Portafolio | Leslie Carolina Páez Balderas
   />
 </div>
 
-[LinkedIn](https://www.linkedin.com/in/leslie-carolina-p%C3%A1ez-balderas/) · [Tableau Public](https://public.tableau.com/app/profile/leslie.p.ez/vizzes) · [Email](mailto:leslie.pabal6@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/leslie-carolina-paez-balderas/) · [Tableau Public](https://public.tableau.com/app/profile/leslie.p.ez/vizzes) · [Email](mailto:leslie.pabal6@gmail.com)
 
 ---
 
@@ -111,6 +111,6 @@ Análisis de datos | Manipulación de datos | Resolución de problemas | Comunic
 
 ## Contacto
 📩 **Email:** leslie.pabal6@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/leslie-carolina-p%C3%A1ez-balderas/
+🔗 **LinkedIn:** (https://www.linkedin.com/in/leslie-carolina-paez-balderas/)
 
 _Última actualización: Feb 2026_
