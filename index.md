@@ -66,9 +66,9 @@ Me interesa desarrollarme en **Business Intelligence, análisis comercial y cali
 **Herramientas:** Python (Pandas, Matplotlib), estadística (pruebas de hipótesis), Jupyter  
 
 **Visualizaciones:**
-![Comparación de género por región](/portafolio/assets/tienda_ice_comparacion_genero_vs_region.png)
-
 ![Ventas por plataforma](/portafolio/assets/tienda_ice_ventas_vs_plataforma.png)
+
+![Comparación de género por región](/portafolio/assets/tienda_ice_comparacion_genero_vs_region.png)
 
 **Hallazgos clave:**
 - **Norteamérica:** X360 + Action + Rating **E**  
